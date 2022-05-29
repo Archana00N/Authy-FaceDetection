@@ -1,0 +1,11 @@
+.container{
+    background-color: rgb(221, 239, 255);
+    border-radius: 20px;
+    width: 40%;
+    margin-top: 60px;
+    padding: 40px;
+}
+
+.form-group{
+    padding: 10px;
+}
